@@ -77,7 +77,7 @@ Aquí tienes algunas estadísticas de mi actividad en GitHub. ¡Siempre estoy ap
 ¡Hablemos! Siempre estoy abierto a discutir nuevos proyectos, ideas o simplemente charlar sobre tecnología.
 
 <p align="center">
-  <a href="https://jpgeportfolio.netlify.app/" target="_blank">
+  <a href="https://juanpe-gomez.vercel.app/es" target="_blank">
     <img src="https://img.shields.io/badge/Mi_Portfolio-00b4d8?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/juanpedroge/" target="_blank">
